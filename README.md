@@ -2,7 +2,6 @@
 
 ### Hi there 👋, My Name Is Al-amin
 #### I am a Wed-Designer.
-![I am a Wed-Designer.](https://scontent.fdac37-1.fna.fbcdn.net/v/t39.30808-6/426495618_720969590103038_7468392376278446121_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=CM1KegEXQlwAX85l17D&_nc_ht=scontent.fdac37-1.fna&oh=00_AfBu5xe1ZQpEWszDn4ln9vcfMDJdj6ljs4J1vs_ESIpINw&oe=65D34084)
 
 I am a computer science student in 5th semester of Daffodil Technical Institute (DTI). I am expert in html and css.
 
